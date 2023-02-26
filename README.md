@@ -1,4 +1,4 @@
-# To-Do-List
+Ji# To-Do-List
 This is a simple To-Do List GUI software made with the C language. It allows users to create, view in an intuitive and user-friendly way.
 # Features 
 • Create new tasks <br>
@@ -14,5 +14,7 @@ Lists are dynamically saved in file.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-# Mid
-https://github.com/tushar19jain/To-Do-List/blob/f4ca70d452c676a3ddabf878a6ddea2a720874ba/LICENSE
+# License
+
+
+
